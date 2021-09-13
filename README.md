@@ -62,7 +62,7 @@ A logistic regression model predicts a dependent data variable by analyzing the 
 - Finded Accuracy score
 - Plotted Confusion Matrix
 - Also plotted the Key factors which predicted customer Churn in LOGISTIC REGRESSION 
-- And at last, Classification report.
+- And at last, the Classification report.
 
 
 ## Random Forest Classifier
@@ -92,4 +92,5 @@ From The Analysis and Prediction done above, i can now Conclude that :
 - Firstly, The company should be knowing the customer needs and that's what this project of mine focused on.
 - By identifying the Customers who are at the verge of Churning, company should work for improving their satisfaction to make them stay.
 - Building Customer Loyality and Improving Customer care services would be also a great thing to do!
+- and some perspective changes would be appreciated.
 
